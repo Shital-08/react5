@@ -1,0 +1,30 @@
+body{
+  background-image: linear-gradient(to bottom, rgb(240, 78, 194) , rgb(179, 250, 38), rgb(248, 157, 107));
+  height: 100vh; 
+  font-family:cursive; 
+}
+h1{
+  color:rgb(108, 5, 10);
+}
+.but1{
+  height: 30px;
+  width: 250px;
+  background-color: rgb(0, 221, 255);
+  border: brown;
+  border-radius: 5px;
+}
+.but2{
+  height: 30px;
+  width: 250px;
+  background-color: rgb(234, 87, 119);
+  margin-left: 10px;
+  border: brown;
+  border-radius: 5px;
+}
+#btn1{
+  margin:auto;
+  padding:auto;
+  position:relative;
+  left: 450px;
+  bottom: 50px;
+}
